@@ -1,5 +1,7 @@
 # bitcoin-price
 
+Demo: http://recepteksan.com/vuejs-coindesk-api/
+
 ## Project setup
 ```
 npm install
