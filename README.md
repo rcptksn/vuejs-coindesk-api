@@ -1,6 +1,7 @@
 # bitcoin-price
 
 Demo: http://recepteksan.com/vuejs-coindesk-api/
+Api: https://www.coindesk.com/coindesk-api
 
 ## Project setup
 ```
